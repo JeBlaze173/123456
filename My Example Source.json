@@ -1,0 +1,43 @@
+{
+  "name": "My Example Source",
+  "subtitle": "A source for all of my apps",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
+  "website": "https://form.typeform.com/to/fyRU4h1P",
+  "patreonURL": "https://patreon.com/altstudio",
+  "tintColor": "#6156e2",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "NBA 2K20",
+      "bundleIdentifier": "com.2ksports.nba2k20",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/xWaZDmm.png",
+      "tintColor": "#ef5756",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://form.typeform.com/to/fyRU4h1P",
+          "size": 3075900000,
+          "version": "1.99840.106159",
+          "buildVersion": null,
+          "date": "2025-12-19T13:16:00+08:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "This app requires access to the photo library."
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
